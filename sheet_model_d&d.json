@@ -1,0 +1,38 @@
+{
+    "sheet_model":"dungeons e dragons",
+    "sheet_description":"ficha inicial sem personagem",
+    "player_name":"",
+    "character":{
+        "character_name":"",
+        "class":"",
+        "race":"",
+        "background":"",
+        "alignment":"",
+        "experience points":""
+    },
+    "character_status":{
+        "armor_class":"",
+        "initiative":"",
+        "speed":"",
+        "current_hit_points":"",
+        "temporary_hit_point":"",
+        "total_hit_dice":"",
+        "successes":[],
+        "failures":[]
+    },
+    "inventory":{
+    "gold":"",
+    "itens":[
+        {
+            "item":"",
+            "description":"",
+            "value":""
+        }
+    ]},
+    "strength":{},
+    "dextery":{},
+    "constituition":{},
+    "intelligence":{},
+    "wisdom":{},
+    "charisma":{}
+}
